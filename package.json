@@ -1,0 +1,24 @@
+{
+  "name": "pg-fun",
+  "version": "1.0.0",
+  "description": "vue3组件库 包管理方式pnpm",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SailSpring/pg-fun.git"
+  },
+  "author": "changfengpo",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SailSpring/pg-fun/issues"
+  },
+  "homepage": "https://github.com/SailSpring/pg-fun#readme",
+  "devDependencies": {
+    "less": "^4.1.3",
+    "typescript": "^5.0.4",
+    "vue": "^3.2.47"
+  }
+}
