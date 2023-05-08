@@ -1,7 +1,6 @@
 <template>
     <div>
-      <ea-button>按钮</ea-button>
-      <Button>123</Button>
+        <pg-button type="primary">主要按钮</pg-button>
     </div>
   </template>
   <script lang="ts" setup>
