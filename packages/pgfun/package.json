@@ -1,0 +1,28 @@
+{
+  "name": "pgfun",
+  "version": "1.0.0",
+  "description": "",
+  "main": "lib/index.js",
+  "module": "es/index.js",
+  "files": [
+    "es",
+    "lib"
+  ],
+  "keywords": [
+    "pgfun",
+    "vue3组件库"
+  ],
+  "sideEffects": [
+    "../*.css"
+  ],
+  "author": "changfengpo",
+  "license": "MIT",
+  "typings": "lib/index.d.ts",
+  "scripts": {
+    "release": "release-it"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/SailSpring/pg-fun"
+  }
+}
