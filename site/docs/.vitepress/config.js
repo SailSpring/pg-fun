@@ -1,6 +1,7 @@
 export default {
+    title: 'Pgfun',
+    base: process.env.NODE_ENV === 'production' ? '/Pgfun/' : '/',
     themeConfig: {
-      siteTitle: "vitepress",
       nav: [
         { text: "指南", link: "/guild/installation" },
         { text: "组件", link: "/components/button/" },
